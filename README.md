@@ -1,2 +1,2 @@
-# peterjameslu.github.io
-Forwarding for peterlu.org to peterlu.com
+# peterlu_org_redirect
+Jekyll source code for redirect from peterlu.org to peterlu.com
