@@ -1,8 +1,8 @@
 title: Peter J. Lu
-email: plu@peterlu.org
+description: redirect links from (old) peterlu.org to (new) peterlu.com
 
 markdown: kramdown
-theme: jekyll-skeleton
+theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-redirect-from
